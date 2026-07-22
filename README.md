@@ -4,16 +4,6 @@
 
 <br />
 
-## Git Status
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com?user=RujingXu-bit&locale=en&theme=dark&background=151515&border=444444&stroke=AAAAAA&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=999999&card_width=900"
-    alt="RujingXu-bit GitHub streak"
-  />
-</p>
-
 
 ## 💻 Tech Stack
 
