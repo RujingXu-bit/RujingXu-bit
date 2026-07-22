@@ -4,6 +4,17 @@
 
 <br />
 
+## Git Status
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://streak-stats.demolab.com?user=RujingXu-bit&locale=en&theme=dark&background=151515&border=444444&stroke=AAAAAA&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=999999&card_width=900"
+    alt="RujingXu-bit GitHub streak"
+  />
+</p>
+
+
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,12 +40,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## Git Status
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com?user=RujingXu-bit&locale=en&theme=dark&background=151515&border=444444&stroke=AAAAAA&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C00&sideLabels=FFFFFF&dates=999999&card_width=900"
-    alt="RujingXu-bit GitHub streak"
-  />
-</p>
